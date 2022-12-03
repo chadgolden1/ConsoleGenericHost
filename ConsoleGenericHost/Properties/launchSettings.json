@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "ConsoleGenericHost": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "--task-a",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
